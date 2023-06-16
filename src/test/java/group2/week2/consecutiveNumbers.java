@@ -1,6 +1,6 @@
 package test.java.group2.week2;
 
-public class ConsecutiveNumbers {
+public class consecutiveNumbers {
     public static void main(String[] args) {
 
         printConsecutiveNumbers(100);

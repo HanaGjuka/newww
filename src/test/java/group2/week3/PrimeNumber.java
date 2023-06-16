@@ -1,4 +1,4 @@
-package week3;
+package test.java.group2.week3;
 
 public class PrimeNumber {
     public static boolean isPrime(int number) {
@@ -6,7 +6,7 @@ public class PrimeNumber {
             return false;
         }
 
-        for (int i = 2; i <= number; i++) {
+        for (int i = 2; i <= number;) {
             if (number % i == 0) {
                 return false;
             }else {
