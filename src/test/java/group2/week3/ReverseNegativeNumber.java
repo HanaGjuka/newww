@@ -1,4 +1,4 @@
-package week3;
+package test.java.group2.week3;
 
 public class ReverseNegativeNumber {
     public static int reverseNegative(int number) {
