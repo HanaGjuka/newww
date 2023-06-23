@@ -1,6 +1,6 @@
 package test.java.group2.week2;
 
-public class SwapNumbers {
+public class swapNumbers {
     public static void main(String[] args) {
 
         int a = 10;
